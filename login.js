@@ -20,7 +20,7 @@ document
 
         localStorage.setItem("loggedIn","true");
 
-        window.location.href = "index.html";
+        window.location.href = "portfolio.html";
 
     }else{
 
