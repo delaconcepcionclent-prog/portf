@@ -1,5 +1,5 @@
-const USERNAME = "clent";
-const PASSWORD = "portfolio123";
+const USERNAME = "Clent";
+const PASSWORD = "clentoy";
 
 document
 .getElementById("loginForm")
