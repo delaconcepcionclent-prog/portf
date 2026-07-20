@@ -279,3 +279,11 @@ form.addEventListener("submit", function(e){
     });
 
 });
+
+function logout(){
+
+    localStorage.removeItem("loggedIn");
+
+    window.location.href = "portfolio.html";
+
+}
